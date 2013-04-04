@@ -37,8 +37,8 @@ analytical abilities. Commitment to creating elegant, robust, and extensible
 solutions to complex problems.
 
 * Skills and Accomplishments
-  - Co-authored RPC protocol specification
-  - Wrote client library based on RPC specification
+  - Co-authored lightweight RPC protocol specification
+  - Wrote client library and threaded server framework for the above
   - Implemented a web-based document compilation service for
     intra-office use
   - Implemented a static analysis tool in Python to detect unused code
