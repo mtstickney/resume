@@ -89,8 +89,8 @@ Dean's List of Distinguished Students at Rensselaer Polytechnic Institute, (/200
 Laura Neske Valente Scholarship (/2008/)
 
 * Computer Skills
-  - Languages: C, C++, Common Lisp, Python, C\#, Go, Javascript, PHP, TCL, Scheme, Haskell, SQL
-  - Software: Django, Flask, MySQL, Apache, nginx, Subversion, Git, Mercurial, Office Suites
+  - Languages: C, Common Lisp, Python, Ruby, Javascript, PHP, ...
+  - Software: Django, Flask, MySQL, Apache, nginx, Subversion, Git, Mercurial
   - Other Technologies: XML, (X)HTML, JSON, CSS, AJAX, \LaTeX
 \end{resume}
 \center{\emph{References available on request}}
