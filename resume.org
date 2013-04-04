@@ -37,24 +37,24 @@ analytical abilities. Commitment to creating elegant, robust, and extensible
 solutions to complex problems.
 
 * Skills and Accomplishments
-  - Co-authored lightweight RPC protocol specification
-  - Wrote client library and threaded server framework for the above
-  - Implemented a web-based document compilation service for
-    intra-office use
-  - Implemented a static analysis tool in Python to detect unused code
-    in a legacy project
+  - Wrote compiler to bootstrap a parser from a language manual
   - Wrote runtime polymorphic multimethod library for Python
+  - Implemented a static analysis tool to detect unused code in a
+    legacy project
   - Wrote Smalltalk-like object system for TCL
   - Wrote virtual memory management subsystem for an emulated
     multitasking OS, solo, in less than 24 hours.
-  - Wrote prototype integration of NMap into a network device test
-    suite.
   - Contributed to multiple open-source projects
-  - Wrote compiler to bootstrap a parser from a language manual
-  - Ran extracurricular seminar on Computer Science topics with three other students.
-  - Invited to join the Upsilon Pi Epsilon computer science honors society.
 
 ** COMMENT spares
+  - Co-authored lightweight RPC protocol specification
+  - Wrote client library and server framework for the above
+  - Wrote prototype integration of NMap into a network device test
+    suite.
+  - Implemented a web-based document compilation service for
+    intra-office use
+  - Ran extracurricular seminar on Computer Science topics with three other students.
+  - Invited to join the Upsilon Pi Epsilon computer science honors society.
   - Created a specialized label printing tool in Javascript in one day with no
     prior experience with the language.
   - Led student development of emulated multitasking operating system,
