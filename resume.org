@@ -21,13 +21,13 @@
 
 \begin{resume}
 * Summary of Qualifications
-Computer Science graduate with experience in a variety of programming
-languages and paradigms. Strong math background and well grounded in
-CS fundamentals, with a record of working quickly and
-efficiently. Focused on developing and implementing good ideas with
-clean, minimal code. Familiar with Linux system administration and
-UNIX systems programming. Able to rapidly acquire new skills and work
-in unfamiliar environments with minimal supervision.
+  Computer Science graduate and developer who studies language design
+  in his spare time. Eats state machines for breakfast (yum!), and has
+  a strong background in CS fundamentals and mathematics. Experience
+  with a wide variety of languages and paradigms, from low-level C to
+  high-level Lisp and beyond. Voracious learner with the ability to
+  rapidly acquire new skills. Likes good ideas, clean minimal code,
+  and walks on the beach.
 
 ** COMMENT spares
 GIS analysis and development, and experience using
