@@ -38,15 +38,21 @@ solutions to complex problems.
 
 * Skills and Accomplishments
   - Wrote compiler to bootstrap a parser from a language manual
+  - Wrote a partial but robust parser/validator for RFC-compliant
+    email addresses
   - Wrote runtime polymorphic multimethod library for Python
   - Implemented a static analysis tool to detect unused code in a
     legacy project
   - Wrote Smalltalk-like object system for TCL
+  - Wrote JS-like object system for Python
+  - Wrote sparse Lisp implementation with macros in PHP
   - Wrote virtual memory management subsystem for an emulated
     multitasking OS, solo, in less than 24 hours.
   - Contributed to multiple open-source projects
 
 ** COMMENT spares
+   - Removed 9,000 lines from a legacy project with six new functions
+     and a handful of wrappers.
   - Co-authored lightweight RPC protocol specification
   - Wrote client library and server framework for the above
   - Wrote prototype integration of NMap into a network device test
