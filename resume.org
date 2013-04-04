@@ -1,0 +1,93 @@
+#+OPTIONS: toc:nil author:nil title:nil date:nil
+#+BIND: org-export-latex-title-command ""
+#+Title:
+#+LaTeX_CLASS: resume
+#+LaTeX_CLASS_OPTIONS: [11pt,margin,centered]
+#+LaTeX_HEADER: \setlength{\textwidth}{5.1in} % set width of text portion
+# %\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
+# %\usepackage{newcent}   % uses new century schoolbook postscript font 
+
+# Center the name over the entire width of resume:
+ \moveleft.5\hoffset\centerline{\large\bf Matthew T. Stickney}
+# Draw a horizontal line the whole width of resume:
+ \moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip
+# address begins here
+# Again, the address lines must be centered over entire width of resume:
+ \moveleft.5\hoffset\centerline{8 Iris Lane, Unit 1}
+ \moveleft.5\hoffset\centerline{Freeport, ME 04032}
+ \moveleft.5\hoffset\centerline{(207) 542-7157}
+
+\begin{resume}
+* Summary of Qualifications
+Computer Science graduate with experience in a variety of programming
+languages and paradigms. Strong math background and well grounded in
+CS fundamentals, with a record of working quickly and
+efficiently. Focused on developing and implementing good ideas with
+clean, minimal code. Familiar with Linux system administration and
+UNIX systems programming. Able to rapidly acquire new skills and work
+in unfamiliar environments with minimal supervision.
+
+** COMMENT spares
+GIS analysis and development, and experience using
+and developing tools for industry-standard GIS software.
+
+with a strong backaground in mathematics and formal logic. Able to work both
+independently and as part of a team, and to rapidly acquire new skills. Excellent
+analytical abilities. Commitment to creating elegant, robust, and extensible
+solutions to complex problems.
+
+* Skills and Accomplishments
+  - Co-authored RPC protocol specification
+  - Wrote client library based on RPC specification
+  - Implemented a web-based document compilation service for
+    intra-office use
+  - Implemented a static analysis tool in Python to detect unused code
+    in a legacy project
+  - Wrote runtime polymorphic multimethod library for Python
+  - Wrote Smalltalk-like object system for TCL
+  - Wrote virtual memory management subsystem for an emulated
+    multitasking OS, solo, in less than 24 hours.
+  - Wrote prototype integration of NMap into a network device test suite.
+  - Ran extracurricular seminar on Computer Science topics with three other students.
+  - Invited to join the Upsilon Pi Epsilon computer science honors society.
+
+** COMMENT spares
+  - Created a specialized label printing tool in Javascript in one day with no
+    prior experience with the language.
+  - Led student development of emulated multitasking operating system,
+    integrating code from multiple contributors.
+  - Wrote sparse Lisp implementation in PHP with macro support (FEXPRs)
+  - Led team of four students during class project, initiating code review
+    process and completing the project early.
+  - Wrote a program to parse and render robotic interior mapping data from
+    scratch in one week.
+  - Wrote ArcMap plugin to automate GIS data attribution, allowing the project
+    to be completed ahead of schedule.
+  - Worked independently to complete several additional GIS projects early
+    with minimal supervision.
+  - Created full spec and implementation for generic character-separated-value
+    library in under three weeks, while enrolled full-time as a student.
+  - Learned (X)HTML, CSS, PHP, and Javascript in approximately two weeks.
+  - Self-taught a variety of programming languages from several paradigms
+    (imperative, object-oriented, functional).
+  - Ported Firefox extension for simplifying the GMail interface to the
+    Chromium browser.
+
+* Experience
+Software Developer, Maineline Technology Group, /2012/
+Software Developer, QACafe, /Summer 2011/ \\
+GIS Analyst/Software Developer, Penobscot Bay Media, LLC, /Summer 2008/ \\
+
+* Education
+B.S. in Computer Science, University of Maine, Orono, ME (/Spring 2011/) \\
+Dean's List of Distinguished Students at University of Maine, (/Spring 2010/) \\
+Dean's List of Distinguished Students at University of Maine, (/Fall 2009/) \\
+Dean's List of Distinguished Students at Rensselaer Polytechnic Institute, (/2008/) \\
+Laura Neske Valente Scholarship (/2008/)
+
+* Computer Skills
+  - Languages: C, C++, Common Lisp, Python, C\#, Go, Javascript, PHP, TCL, Scheme, Haskell, SQL
+  - Software: Django, Flask, MySQL, Apache, nginx, Subversion, Git, Mercurial, Office Suites
+  - Other Technologies: XML, (X)HTML, JSON, CSS, AJAX, \LaTeX
+\end{resume}
+\center{\emph{References available on request}}
