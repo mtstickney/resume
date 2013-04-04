@@ -1,0 +1,100 @@
+* COMMENT About Me
+  - I do like compilers
+    - working on one now, it's most enjoyable project I've got
+  - I've studied parsers
+    - implemented email validator three different ways just to try them out
+      - Rob Pike's technique from the Go templating lang
+      - version where state is a parser func
+      - table-based version
+  - Done work in a ton of languages
+    - Low-level, C, OS-stuff
+    - scripting langs
+    - Lisp/Haskell
+  - Use github
+    - master slicer and dicer
+    - Interesting repos on my github are
+      - BRAIN stuff (C)
+      - vertigo (parser bootstrap)
+        - TODO: Merge branch from sync back to main repo
+      - urlisp (more parsers)
+* COMMENT About you
+  - Good attitude
+    - focus on minimal systems is good
+  - Good work
+    - parsers/compilers are awesome!
+    - wrangling hard problems, not hard code
+
+* Better Letter
+  You need someone proficient in compilers? I'm your man. I'm a
+  student of language design and implementation, and I recently built
+  a compiler to generate a parser skeleton from a language
+  manual. State machines are a favorite in my bag of implementation
+  tricks, and I can implement them quickly and effectively. As for
+  complexity management, I recently removed nearly 9,000 lines of code
+  from a project with six new functions and a handful of wrappers.
+
+  I've used git for years on all my personal projects, and I've put my
+  git-fu to work at my job, even though it's officially an SVN shop. I
+  know git's data model, and use it to slice and dice history when SVN
+  isn't up to the job. Automatic feature backports? Yes
+  please. Rebasing part of a branch to a cross-repo grafted SVN
+  remote? Done.
+
+  You can see some of my code at http://github.com/mtstickney. Repos
+  of interest are Vertigo (my compiler project), Urlisp (a sparse Lisp
+  implementation in PHP), and the BRAIN-* repos (stages of a
+  multi-tasking OS emulator done as a school project).
+
+  Enough about me, though. Your job posting caught my eye because you
+  have two things that I prize in an employer: a good attitude, and
+  good work. The fact that you allow remote workers, are
+  results-oriented, and give attribution for projects speaks volumes
+  about where your priorities lie. That you prefer minimal, compact
+  systems is just icing on the cake.
+
+  I want to help you make awesome things; lets talk about what I can
+  do for you and your team.
+
+* COMMENT Letter
+  I love compilers and parsers, and automata in general; it's one of
+  my favorite topics in CS. I recently implemented a small compiler to
+  generate a parser skeleton from a language manual; the rest of the
+  compiler is still under construction, but it's the most enjoyable
+  project I've worked on in a while. State machines are always a
+  favorite in my bag of implementation tricks.
+
+  I use git for all my personal projects, and it's proved valuable at
+  work as well. Officially we use SVN, but I use git's SVN bridge for
+  most of my work. Being able to slice and dice bits of branches
+  around between repos has been a life-saver. Automatic feature
+  backports? Yes, please. The most complicated thing I've done with it
+  involved rebasing part of a branch to a cross-repo grafted SVN
+  remote. Being familiar with Git's data model makes keeping that kind
+  of workflow straight much easier (heck, possible).
+
+  The most important thing about me is that I have an endless drive to
+  learn new things. I spend a ton of time reading about my craft, both
+  the more concrete articles about implementation techniques and
+  classic CS papers. I like to experiment with what I learn, and bring
+  it back into my projects when I can: I recently implemented an email
+  validation parser with three techniques as a comparative, and I'm
+  hoping to bring Alex Warth's OMeta idea into my compiler project.
+
+  Enough about me, though. Your job posting caught my eye because you
+  have two things that I prize in an employer: a good attitude, and
+  good work. The fact that you allow remote workers, are
+  results-oriented, and give attribution for projects speaks volumes
+  about where your priorities lie and how much your care about your
+  developers. That you prefer minimal, compact systems is just icing
+  on the cake.
+
+  My Github repos can be found at http://github.com/mtstickney. Repos
+  of interest are Vertigo (my compiler project), Urlisp (a sparse Lisp
+  implementation), and the BRAIN-* repos (stages of an multi-tasking
+  OS emulator done as a school project). Feel free to poke around,
+  though some projects may be a little dated.
+
+  I'd love to help you make awesome things; I think I can be a real
+  asset to you, and I'd be more than happy to talk over what I can do
+  for you and your team.
+  
