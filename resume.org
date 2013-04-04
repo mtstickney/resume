@@ -11,6 +11,8 @@
  \moveleft.5\hoffset\centerline{\large\bf Matthew T. Stickney}
 # Draw a horizontal line the whole width of resume:
  \moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip
+# Email address
+ \moveleft.5\hoffset\centerline{mtstickney@gmail.com}
 # address begins here
 # Again, the address lines must be centered over entire width of resume:
  \moveleft.5\hoffset\centerline{8 Iris Lane, Unit 1}
