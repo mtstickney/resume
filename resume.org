@@ -19,13 +19,10 @@
 
 \begin{resume}
 * Summary of Qualifications
-Computer Science graduate with experience in a variety of programming
-languages and paradigms. Strong math background and well grounded in
-CS fundamentals, with a record of working quickly and
-efficiently. Focused on developing and implementing good ideas with
-clean, minimal code. Familiar with Linux system administration and
-UNIX systems programming. Able to rapidly acquire new skills and work
-in unfamiliar environments with minimal supervision.
+Polyglot programmer with experience in a variety of programming
+languages and paradigms. Deliberate, pragmatic, and focused on getting
+the job done, robustly. Has a broad range of knowledge and can stare a
+computer down at 20 yards. Skilled debugger; maintainer at heart.
 
 ** COMMENT spares
 GIS analysis and development, and experience using
