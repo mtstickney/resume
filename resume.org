@@ -73,7 +73,7 @@ solutions to complex problems.
 * Experience
 Senior Software Developer, Maineline Technology Group, /2012-2018/ \\
 Software Developer, QACafe, /Summer 2011/ \\
-GIS Analyst/Software Developer, Penobscot Bay Media, LLC, /Summer 2008/ \\
+GIS Analyst/Software Developer, Penobscot Bay Media, LLC, /Summer 2008/
 
 * Education
 B.S. in Computer Science, University of Maine, Orono, ME (/Spring 2011/) \\
