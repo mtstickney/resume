@@ -34,6 +34,29 @@ analytical abilities. Commitment to creating elegant, robust, and extensible
 solutions to complex problems.
 
 * Skills and Accomplishments
+  - Designed public system API to support third-party system integrations
+  - Developed internal tooling for automatic builds, database schema
+    management, and to simplify deployment processes
+  - Developed a micro-ORM library
+  - Created module for dynamically-managed marketing and customer
+    communication mailings
+  - Added SMS messaging support to existing marketing module
+  - Implemented flagship feature for real-time communication with
+    customers at POS stations
+  - Worked with management to assess technical risk and prioritize
+    developer resources to meet current needs
+  - Conducted developer and support training for new systems and
+    technology
+  - Set long-term modernization technology goals, conducted training
+  - Advanced debugging techniques (system tracing, low-level
+    debuggers, binary analysis, packet traces)
+
+** COMMENT alternatives
+  - Developed tools to simplify troubleshooting and deployment for
+    support technicians
+  - Developed tools to manage database schema changes during upgrades
+
+** COMMENT old
   - Co-authored lightweight RPC protocol specification
   - Wrote client library and threaded server framework for the above
   - Implemented a web-based document compilation service for
