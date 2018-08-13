@@ -77,10 +77,9 @@ GIS Analyst/Software Developer, Penobscot Bay Media, LLC, /Summer 2008/ \\
 
 * Education
 B.S. in Computer Science, University of Maine, Orono, ME (/Spring 2011/) \\
-Dean's List of Distinguished Students at University of Maine, (/Spring 2010/) \\
-Dean's List of Distinguished Students at University of Maine, (/Fall 2009/) \\
-Dean's List of Distinguished Students at Rensselaer Polytechnic Institute, (/2008/) \\
-Laura Neske Valente Scholarship (/2008/)
+Dean's List at University of Maine, (/Fall 2009 & Spring 2010/) \\
+Dean's List at Rensselaer Polytechnic Institute, (/2008/) \\
+Maine School of Science and Mathematics, (/2004-2007/)
 
 * Computer Skills
   - Languages: C, C++, Common Lisp, Python, C\#, Go, Javascript, PHP, TCL, Scheme, Haskell, SQL
