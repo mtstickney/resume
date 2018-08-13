@@ -82,8 +82,8 @@ Dean's List at Rensselaer Polytechnic Institute, (/2008/) \\
 Maine School of Science and Mathematics, (/2004-2007/)
 
 * Computer Skills
-  - Languages: C, C++, Common Lisp, Python, C\#, Go, Javascript, PHP, TCL, Scheme, Haskell, SQL
-  - Software: Django, Flask, MySQL, Apache, nginx, Subversion, Git, Mercurial, Office Suites
-  - Other Technologies: XML, (X)HTML, JSON, CSS, AJAX, \LaTeX
+  - Languages: C\#, Python, C, Common Lisp, Go, Javascript, SQL
+  - Software: ASP.NET, PostgreSQL, Apache, nginx, Subversion, Git
+  - Other Technologies: HTML, CSS, AJAX, low-level COM, \LaTeX
 \end{resume}
 \center{\emph{References available on request}}
